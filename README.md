@@ -23,5 +23,3 @@ q) = Exit
 ## Contribution
 We are open for any contribution
 
-
-# litunes
